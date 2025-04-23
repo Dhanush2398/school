@@ -5277,3 +5277,14 @@ button {
     font-size: 0.8rem;
   }
 }
+
+.space-ptb {
+  background-color:#0b1f3a; 
+}
+
+.space-ptb h2 {
+  color: #ffc107;
+}
+.space-ptb p {
+  color: #fff;
+}
